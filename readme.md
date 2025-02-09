@@ -14,7 +14,7 @@ Each folder contains detailed markdown notes, diagrams, and important takeaways 
 
 🚀 How to Use
 1️⃣ Clone the repo:
-git clone https://github.com/IslamAhmd95/sql-notes.git
+git clone https://github.com/IslamAhmd95/Database.git
 2️⃣ Open in Obsidian:
 Open Obsidian
 Select "Open Folder as Vault" and choose this repo
