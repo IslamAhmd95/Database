@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "dc040d8b0c047439",
+    "type": "split",
+    "children": [
+      {
+        "id": "41b4b9e3a8c4ac49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46dbc82f24364f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14b9e4f695a49b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6ad3ecaba3cf98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a728f3ab0b5eb607",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc410ac28e31db14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Cardinality",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "45bf7f1714669cf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b587797e098efed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "22db004fea99d2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68861658a54b9f0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Database Normalization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5. Database Normalization"
+            }
+          },
+          {
+            "id": "eb13af23c3121e6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Relational vs Non-Relational Databases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Relational vs Non-Relational Databases"
+            }
+          },
+          {
+            "id": "226ce75886702787",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b85035042bb30442",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Database Normalization.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5. Database Normalization"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d46dbc82f24364f4",
+  "lastOpenFiles": [
+    "0. README.md",
+    "5. Database Normalization.md",
+    "6. SQL Join Types.md",
+    "Pasted image 20241208091336.png",
+    "Pasted image 20241208091245.png",
+    "4. ER-to-Relational Mapping.md",
+    "2. Relationships in ER Diagrams.md",
+    "Further Reading.md",
+    "3. Databases Keys.md",
+    "1. Database design.md",
+    "Pasted image 20241203132051.png",
+    "Pasted image 20241203115047.png",
+    "Pasted image 20241202211016.png",
+    "Pasted image 20241202211016 1.png",
+    "Pasted image 20241202212342.png",
+    "Pasted image 20241202164540.png",
+    "Pasted image 20241202162953.png",
+    "Pasted image 20241202162853.png",
+    "Relational vs Non-Relational Databases.md",
+    "create a link.md"
+  ]
+}
