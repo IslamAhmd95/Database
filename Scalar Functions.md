@@ -1,4 +1,4 @@
-#scalar_functions #COALESCE
+#scalar_functions #COALESCE #concat #length #upper #lower #round #floor #ceil #abs #now #date_add #date_format #user #database #if #case #COALESCE #ifnull
 
 ---
 

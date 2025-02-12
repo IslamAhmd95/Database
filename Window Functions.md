@@ -1,3 +1,4 @@
+#window_functions #rank_functions #aggregate_functions #value_functions #row_number #rank #dense_rank #ntile #lag #lead #first_value #nth_value #last_value #partition_by
 -- -
 
 ### What Are Window Functions?
